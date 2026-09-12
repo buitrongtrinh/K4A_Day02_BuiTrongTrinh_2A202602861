@@ -23,7 +23,7 @@
 | Phúc Thắng | FAQ homestay; lịch phòng đa kênh; dọn phòng/bảo trì | Workflow rõ nhưng domain/data của một thành viên. |
 | Gia Bảo | Chi tiêu đa nguồn; thực đơn; deadline LMS/email | Pain cá nhân có metric nhưng khó thử chung. |
 | Hoàng Minh | Monthly report; requirement rải rác; cập nhật GitHub/Excel/phiếu | Monthly report có baseline lớn, workflow 6 bước và dữ liệu nguồn rõ. |
-| Trọng Trình | Group update; tìm quyết định cũ; checklist bài nộp | Cùng pattern tổng hợp thông tin, dễ pilot trong lớp. |
+| Trọng Trịnh | Group update; tìm quyết định cũ; checklist bài nộp | Cùng pattern tổng hợp thông tin, dễ pilot trong lớp. |
 | Minh Hiếu | Weekly report; report dataset; README/runbook | Weekly report xác nhận pattern Git/task/chat → narrative cho leader. |
 
 ### 3.2. Cluster
@@ -57,7 +57,7 @@
 |---|---:|---|---|---|
 | Individual report Hoàng Minh | 1 | Monthly report mất khoảng 2.5–3.5 giờ; bottleneck là đối chiếu weekly/GitHub và viết narrative. | Đây là ước lượng, chưa bấm giờ hai kỳ liên tiếp. | Dùng làm baseline giả định cho pilot, phải đo lại. |
 | Individual report Minh Hiếu | 1 | Weekly report mất 45–60 phút để lục Git/Jira/chat rồi viết narrative. | Bối cảnh intern AI, khác ERP. | Xác nhận pattern nguồn rải rác → narrative, không cộng số liệu. |
-| Individual report Trọng Trình | 1 | Group update mất 35–45 phút để gom chat/bảng/file. | Bối cảnh nhóm học, không phải công ty. | Xác nhận pain tổng hợp thông tin lặp lại ở domain khác. |
+| Individual report Trọng Trịnh | 1 | Group update mất 35–45 phút để gom chat/bảng/file. | Bối cảnh nhóm học, không phải công ty. | Xác nhận pain tổng hợp thông tin lặp lại ở domain khác. |
 | Interview/survey bên ngoài | 0 | Chưa thực hiện. | Chưa có quote độc lập từ quản lý/ERP team. | Pilot không được tự gửi report; cần lấy feedback từ người review sau pilot. |
 
 **Insight:** Pain không nằm ở việc lấy commit đơn lẻ mà ở việc đối chiếu nhiều nguồn và dịch chúng thành narrative quản lý đọc được. Do hậu quả của draft sai có thể chặn bằng review, nhóm có thể Go với pilot thủ công, scope hẹp và có rollback.

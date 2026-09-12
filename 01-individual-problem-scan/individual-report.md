@@ -4,7 +4,7 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên: Bùi Trọng Trình
+- Họ và tên: Bùi Trọng Trịnh
 - Mã học viên: 2A202602861
 - Vai trò / bối cảnh: Sinh viên tham gia các lab và dự án nhóm
 - Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
